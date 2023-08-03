@@ -1,0 +1,42 @@
+.bg-container {
+  padding: 60px;
+}
+
+.app-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+}
+
+.count {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: Roboto;
+  color: #0f172a;
+}
+
+.count-property {
+  color: #334155;
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+.btn {
+  height: 50px;
+  width: 180px;
+  border-radius: 10px;
+  border: none;
+  background-color: #ffffff;
+  color: #334155;
+  font-size: 23px;
+}
+
+.des {
+  color: #1e293b;
+  font-size: 20px;
+}
